@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yash Nagare <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm Yash Nagare</h1>
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Gluten&color=FF9933&size=30&center=true&vCenter=true&width=900&height=70&lines=A+passionate+competitive+programmer;Android+Developer%2C+Machine+Learning+Engineer;Where+there+is+Code.+There+is+Life" />
