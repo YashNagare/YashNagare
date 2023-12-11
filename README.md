@@ -8,14 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashNagare" alt="YashNagare" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**.
-- 🔥  Future goal **Data Scientist**.
+- 🌱 I’m currently learning **Kotlin**.
+- 🔥  Future goal **Android Developer**.
 - 💬 Ask me about anything, I'm happy to help!
 - ⚡ Fun fact 🍲😴👨‍💻 🔁.
 
 
 ## 💻 Languages and Tools 
 
+![Kotlin](https://img.shields.io/badge/kotlin-FFA500?style=for-the-badge&logo=kotlin&logoColor=4358c4)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
