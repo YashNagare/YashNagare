@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashNagare" alt="YashNagare" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**.
-- 🔥  Future goal **Android Developer**.
+- 🌱 I’m currently learning **Django**.
+- 🔥  Future goal **Backend Developer**.
 - 💬 Ask me about anything, I'm happy to help!
 - ⚡ Fun fact 🍲😴👨‍💻 🔁.
 
