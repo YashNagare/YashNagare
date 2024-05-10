@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashNagare" alt="YashNagare" /> </p>
 
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently learning **AWS**.
 - 🔥  Future goal **Backend Developer**.
 - 💬 Ask me about anything, I'm happy to help!
 - ⚡ Fun fact 🍲😴👨‍💻 🔁.
