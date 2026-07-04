@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashNagare" alt="YashNagare" /> </p>
 
-- 🌱 I’m currently learning **AWS**.
+- 🌱 I’m currently learning **Azure**.
 - 🔥  Future goal **Fullstack Developer**.
 - 💬 Ask me about anything, I'm happy to help!
 - ⚡ Fun fact 🍲😴👨‍💻 🔁.
